@@ -1,7 +1,5 @@
 # Binary Tree
 
-Prolog is a programming language that relies heavily on recursion.
-
 ## insert(I,T1,T2):
 This function recursively searched the tree going left when I < current Root, and right when greater, on each recurse the root node is updated allowing you to traverse the tree, finding the spot I belongs.
 
